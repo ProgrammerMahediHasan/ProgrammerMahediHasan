@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahedi Hasan</h1>
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh. Web Developer | Expertise in Frontend, Backend & Database Management.</h3>
 
-<img align="right" alt="gif" width="500" src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
+<img align="right" alt="gif" width="400" src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
 
 
 
