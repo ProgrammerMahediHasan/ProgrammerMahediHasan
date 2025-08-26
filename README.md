@@ -1,4 +1,4 @@
-![logo] (https://github.com/ProgrammerMahediHasan/ProgrammerMahediHasan/blob/main/Github%20Banner.png)
+![logo](https://github.com/ProgrammerMahediHasan/ProgrammerMahediHasan/blob/main/Github%20Banner.png)
 
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Mahedi Hasan</h1>
