@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Mahedi Hasan</h1>
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh. Web Developer | Expertise in Frontend, Backend & Database Management.</h3>
 
-<img width="220" height="165" align="right" alt="image" src="https://github.com/user-attachments/assets/8e80a3fe-37f1-4caa-a0c6-ca887eac957f" />
+<img align="right" alt="gif" width="500" src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmermahedihasan&label=Profile%20views&color=0e75b6&style=flat" alt="programmermahedihasan" /> </p>
