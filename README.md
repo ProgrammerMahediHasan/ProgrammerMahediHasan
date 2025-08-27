@@ -103,6 +103,118 @@ Example:
 
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Works</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      color: #333;
+      margin-bottom: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+      background-color: #fff;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    th, td {
+      padding: 12px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+    th {
+      background-color: #f4f4f4;
+    }
+    th span, td span {
+      margin-right: 5px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      background-color: #fff;
+      margin-bottom: 10px;
+      padding: 10px 15px;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+  </style>
+</head>
+<body>
+
+  <h1>My Works</h1>
+
+  <table>
+    <thead>
+      <tr>
+        <th>💼 Designation</th>
+        <th>🏢 Organization</th>
+        <th>⏰ Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Software Developer</td>
+        <td><a href="@Finarb">@Finarb</a></td>
+        <td>June 2022 - Present</td>
+      </tr>
+      <tr>
+        <td>Software Developer Intern</td>
+        <td><a href="@IEMA">@IEMA</a></td>
+        <td>April 2021 - May 2022</td>
+      </tr>
+      <tr>
+        <td>Technical Instructor</td>
+        <td><a href="@IEMA">@IEMA</a></td>
+        <td>April 2021 - November 2021</td>
+      </tr>
+      <tr>
+        <td>Web Lead</td>
+        <td><a href="@Ureckon">@Ureckon</a></td>
+        <td>November 2021 - Present</td>
+      </tr>
+      <tr>
+        <td>Software Developer Intern</td>
+        <td><a href="@Quordnet-Academy">@Quordnet-Academy</a></td>
+        <td>Sep 2020 - Mar 2021</td>
+      </tr>
+      <tr>
+        <td>Backend Developer (Freelancer)</td>
+        <td><a href="@arches software co.">@arches software co.</a></td>
+        <td>August 2021 - November 2021</td>
+      </tr>
+      <tr>
+        <td>Founding Member & Web Developer</td>
+        <td><a href="@Hack Club Uemk">@Hack Club Uemk</a></td>
+        <td>June 2020 - June 2021</td>
+      </tr>
+      <tr>
+        <td>Freelancer</td>
+        <td><a href="@TreatAp">@TreatAp</a></td>
+        <td>Nov 2020 - Dec 2020</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <ul>
+    <li>👨‍💻 I’m looking to collaborate on Full Stack development projects</li>
+    <li>😄 Passion: Full Stack Developer | Contributor | Web3.0 & DevOps Enthusiast | Coder | Tech lover | Music</li>
+  </ul>
+
+</body>
+</html>
+
+
 
 
 
