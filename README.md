@@ -110,7 +110,7 @@ Example:
 ---
 
 
-  <h1 align="center">My Works</h1>
+  <h1 align="center">My Career Expreinces</h1>
 
   <table align="center">
     <thead>
@@ -164,7 +164,7 @@ Example:
     </tbody>
   </table>
 
-  <ul>
+  <ul align="center">
     <li>👨‍💻 I’m looking to collaborate on Full Stack development projects</li>
     <li>😄 Passion: Full Stack Developer | Contributor | Web3.0 & DevOps Enthusiast | Coder | Tech lover | Music</li>
   </ul>
