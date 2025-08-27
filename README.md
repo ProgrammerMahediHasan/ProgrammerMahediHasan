@@ -110,9 +110,9 @@ Example:
 ---
 
 
-  <h1>My Works</h1>
+  <h1 align="center">My Works</h1>
 
-  <table>
+  <table align="center">
     <thead>
       <tr>
         <th>💼 Designation</th>
