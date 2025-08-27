@@ -18,9 +18,10 @@
   
 - 🌱 I’m currently learning **PHP, Laravel, MySQL for the Full Stack Development.**
 
-- 👯 I’m looking to collaborate on [Coder-Pro Landing Page Website Project](https://coder-pro.netlify.app/)
+- 👯 I’m looking to collaborate on Full Stack Web Development projects, including Laravel, React, Vue.js applications, and open source initiatives that enhance my skills and contribute to impactful solutions.
 
-- 🤝 I’m looking for help with [Programmer Jogot Landing Page Website](https://programmer-jogot.netlify.app/)
+
+- 🤝 I’m seeking guidance and collaboration on designing and building scalable Full Stack Web Applications, optimizing Laravel and React workflows, implementing efficient Vue.js solutions, and architecting robust, high-performance databases.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProgrammerMahediHasan](https://github.com/ProgrammerMahediHasan)
 
