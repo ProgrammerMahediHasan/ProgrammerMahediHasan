@@ -164,10 +164,12 @@ Example:
     </tbody>
   </table>
 
-  <ul >
-     <li &nbsp; &nbsp; &nbsp;>👨‍💻 I’m looking to collaborate on Full Stack development projects</li>
-    <li &nbsp; &nbsp; &nbsp;>😄 Passion: Full Stack Developer | Contributor | Web3.0 & DevOps Enthusiast | Coder | Tech lover | Music</li>
+<div style="text-align: center;">
+  <ul style="display: inline-block; text-align: left;">
+    <li>🧑‍💻 I’m looking to collaborate on Full Stack development projects</li>
+    <li>😄 Passion: Full Stack Developer | Contributor | Web3.0 & DevOps Enthusiast | Coder | Tech lover | Music</li>
   </ul>
+</div>
 
 </body>
 
