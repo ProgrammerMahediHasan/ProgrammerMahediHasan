@@ -46,10 +46,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ### Expertise
-- **Languages:** C, C++, JavaScript, TypeScript, Python  
+- **Languages:** JavaScript 
 - **Frontend:** HTML5, CSS3, React, Next.js, Bootstrap, Material UI, TailwindCSS, React Router  
 - **Backend:** Node.js, Express.js, Django, Fastify  
-- **Databases:** MySQL, MongoDB (Mongoose), PostgreSQL, Prisma  
+- **Databases:** MySQL, MongoDB (Mongoose), PostgreSQL, Oracle  
 - **APIs & Auth:** RESTful APIs, JWT, Firebase Authentication, GraphQL  
 - **CS Fundamentals:** Data Structures, Algorithms, OOP, Problem Solving
 
@@ -71,7 +71,8 @@
 - **Project Management:** Clone Website, Landing Page etc. 
 - **Design:** Figma  
 - **Communication:** AnyDesk, VNC, TeamViewer.
-- **Deploy / Dev Tools:** Personal Landing Page Website, Shohoz Clone Website and etc.
+- **Deploy / Dev Tools:** Personal Landing Page Website, Shohoz Clone Website, etc.
+- **Office Application** Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft Office.
 
 ---
 
