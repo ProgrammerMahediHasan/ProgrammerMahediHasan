@@ -78,11 +78,11 @@
 ---
 
 ## 🧠 Soft Skills
-  • Leadership
-  • Communication
-  • Active Listening
-  • Quick Learner
-  • Hard Working
+ - **Leadership
+ - **Communication
+ - **Active Listening
+ - **Quick Learner
+ - **Hard Working
 
 ---
 
