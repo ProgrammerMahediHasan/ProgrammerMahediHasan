@@ -54,15 +54,13 @@
 - **CS Fundamentals:** Data Structures, Algorithms, OOP, Problem Solving
 
 ### Comfortable
-- **Databases:** DBMS, SQL  
+- **Databases:** DBMS, SQL, PL-SQL, ORACLE DATABASE, FORMS & REPORT.
 - **Frameworks / Libraries:** React Hook Form, WordPress  
 - **Tools:** Postman, Git, GitHub, VS Code
 
 ### Familiar
 - **Mobile:** React Native  
 - **Data Viz:** Chart.js, MarkMap.js  
-- **Testing:** Vitest, Jest  
-- **DevOps / Cloud:** Docker, AWS  
 - **Other:** Web Scraping, Data Analysis, NPM
 
 ---
@@ -70,10 +68,10 @@
 ## 🛠 Tools & Workflow
 - **Version Control:** Git & GitHub  
 - **IDEs:** VS Code  
-- **Project Management:** Jira, Trello  
+- **Project Management:** Clone Website, Landing Page etc. 
 - **Design:** Figma  
-- **Communication:** Discord, Slack  
-- **Deploy / Dev Tools:** Chrome DevTools, Firebase, Netlify, Heroku, Render, Postman
+- **Communication:** AnyDesk, VNC, TeamViewer.
+- **Deploy / Dev Tools:** Personal Landing Page Website, Shohoz Clone Website and etc.
 
 ---
 
