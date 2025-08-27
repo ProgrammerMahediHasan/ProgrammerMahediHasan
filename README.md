@@ -3,9 +3,10 @@
 ### Hello Guys! 👋
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=FF0000&lines=Hello+👋+I'm+Mahedi+Hasan" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=FF0000&font=Fira+Code&weight=700&lines=Hello+👋+I'm+Mahedi+Hasan" alt="Typing SVG"/>
   </a>
 </h1>
+
 
 
 <h2 align="center">  <font color="blue">A Passionate Full Stack Developer From Bangladesh | Expertise in Frontend, Backend & Database Management. 💗</font></h2>
