@@ -1,6 +1,6 @@
 ![logo](https://github.com/ProgrammerMahediHasan/ProgrammerMahediHasan/blob/main/Github%20Banner.png)
 
-## Hi there 👋
+###### Hi Guys! 👋
 <h1 align="center">Hi 👋, I'm Mahedi Hasan</h1>
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh. Web Developer | Expertise in Frontend, Backend & Database Management.</h3>
 
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Shohoz Clone Website Project](https://shohoz-project.netlify.app/)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP, Laravel, MySQL, React, Vue.js, and WordPress for the Full Stack Development.**
+- 🌱 I’m currently learning **PHP, Laravel, MySQL for the Full Stack Development.**
 
 - 👯 I’m looking to collaborate on [Coder-Pro Landing Page Website Project](https://coder-pro.netlify.app/)
 
