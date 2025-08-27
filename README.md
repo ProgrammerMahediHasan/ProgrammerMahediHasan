@@ -45,24 +45,68 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+### Expertise
+- **Languages:** C, C++, JavaScript, TypeScript, Python  
+- **Frontend:** HTML5, CSS3, React, Next.js, Bootstrap, Material UI, TailwindCSS, React Router  
+- **Backend:** Node.js, Express.js, Django, Fastify  
+- **Databases:** MySQL, MongoDB (Mongoose), PostgreSQL, Prisma  
+- **APIs & Auth:** RESTful APIs, JWT, Firebase Authentication, GraphQL  
+- **CS Fundamentals:** Data Structures, Algorithms, OOP, Problem Solving
 
-**Backend:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+### Comfortable
+- **Databases:** DBMS, SQL  
+- **Frameworks / Libraries:** React Hook Form, WordPress  
+- **Tools:** Postman, Git, GitHub, VS Code
 
-**Others:**  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### Familiar
+- **Mobile:** React Native  
+- **Data Viz:** Chart.js, MarkMap.js  
+- **Testing:** Vitest, Jest  
+- **DevOps / Cloud:** Docker, AWS  
+- **Other:** Web Scraping, Data Analysis, NPM
+
+---
+
+## 🛠 Tools & Workflow
+- **Version Control:** Git & GitHub  
+- **IDEs:** VS Code  
+- **Project Management:** Jira, Trello  
+- **Design:** Figma  
+- **Communication:** Discord, Slack  
+- **Deploy / Dev Tools:** Chrome DevTools, Firebase, Netlify, Heroku, Render, Postman
+
+---
+
+## 🧠 Soft Skills
+- Leadership • Communication • Active Listening • Quick Learner • Hard Working
+
+---
+
+## ⚡ Featured Projects
+> _Add 2–4 pinned projects here with short descriptions and links._  
+Example:
+- **Project A** — React + Firebase app for X. (link)
+- **Project B** — Next.js site with SSR & Prisma for Y. (link)
+
+---
+
+## 📫 Contact
+- Email: your.email@example.com  
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- Portfolio: https://yourportfolio.com
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pollob-official&color=blue)  
