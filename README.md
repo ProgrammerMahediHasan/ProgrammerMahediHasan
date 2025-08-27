@@ -164,12 +164,12 @@ Example:
     </tbody>
   </table>
 
-<div style="text-align: center;">
-  <ul style="display: inline-block; text-align: left;">
+
+  <ul style="display: inline-block; text-align: center;">
     <li>🧑‍💻 I’m looking to collaborate on Full Stack development projects</li>
     <li>😄 Passion: Full Stack Developer | Contributor | Web3.0 & DevOps Enthusiast | Coder | Tech lover | Music</li>
   </ul>
-</div>
+
 
 </body>
 
