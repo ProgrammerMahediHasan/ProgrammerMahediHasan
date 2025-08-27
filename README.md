@@ -45,7 +45,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-### Expertise
+### 🏆 Expertise
 - **Languages:** JavaScript 
 - **Frontend:** HTML5, CSS3, React, Next.js, Bootstrap, Material UI, TailwindCSS, React Router  
 - **Backend:** Node.js, Express.js, Django, Fastify  
@@ -53,12 +53,12 @@
 - **APIs & Auth:** RESTful APIs, JWT, Firebase Authentication, GraphQL  
 - **CS Fundamentals:** Data Structures, Algorithms, OOP, Problem Solving
 
-### Comfortable
+### 😎 Comfortable
 - **Databases:** DBMS, SQL, PL-SQL, ORACLE DATABASE, FORMS & REPORT.
 - **Frameworks / Libraries:** React Hook Form, WordPress  
 - **Tools:** Postman, Git, GitHub, VS Code
 
-### Familiar
+### 📚 Familiar
 - **Mobile:** React Native  
 - **Data Viz:** Chart.js, MarkMap.js  
 - **Other:** Web Scraping, Data Analysis, NPM
