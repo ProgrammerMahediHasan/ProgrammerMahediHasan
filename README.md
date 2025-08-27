@@ -108,11 +108,7 @@ Example:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF0000&lines=👩🏻‍💻Welcome+To+My+Career+Exprience;Open+to+Collaboration)](https://git.io/typing-svg)
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>My Works</title>
   <style>
     body {
@@ -217,7 +213,7 @@ Example:
   </ul>
 
 </body>
-</html>
+
 
 
 
