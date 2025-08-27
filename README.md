@@ -78,7 +78,11 @@
 ---
 
 ## 🧠 Soft Skills
-- Leadership • Communication • Active Listening • Quick Learner • Hard Working
+  • Leadership
+  • Communication
+  • Active Listening
+  • Quick Learner
+  • Hard Working
 
 ---
 
@@ -91,9 +95,9 @@ Example:
 ---
 
 ## 📫 Contact
-- Email: your.email@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Portfolio: https://yourportfolio.com
+- Email: mahedihasanabir8@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mahedihasan8/
+- Portfolio: https://mahedi-hasan.my.canva.site/
 
 ---
 
