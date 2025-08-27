@@ -1,7 +1,12 @@
 ![logo](https://github.com/ProgrammerMahediHasan/ProgrammerMahediHasan/blob/main/Github%20Banner.png)
 
 ### Hello Guys! 👋
-<h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF0000&lines=Hello+👋,+I'm+Mahedi+Hasan)](https://git.io/typing-svg)</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=FF0000&lines=Hello+👋,+I'm+Mahedi+Hasan" alt="Typing SVG"/>
+  </a>
+</h1>
+
 <h2 align="center">  <font color="blue">A Passionate Full Stack Developer From Bangladesh | Expertise in Frontend, Backend & Database Management. 💗</font></h2>
 
 
