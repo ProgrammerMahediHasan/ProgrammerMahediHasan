@@ -164,9 +164,9 @@ Example:
     </tbody>
   </table>
 
-  <ul align="center">
-    <li>👨‍💻 I’m looking to collaborate on Full Stack development projects</li>
-    <li>😄 Passion: Full Stack Developer | Contributor | Web3.0 & DevOps Enthusiast | Coder | Tech lover | Music</li>
+  <ul >
+    <li align="center">👨‍💻 I’m looking to collaborate on Full Stack development projects</li>
+    <li align="center">😄 Passion: Full Stack Developer | Contributor | Web3.0 & DevOps Enthusiast | Coder | Tech lover | Music</li>
   </ul>
 
 </body>
