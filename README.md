@@ -109,10 +109,6 @@ Example:
 
 ---
 
-  <title>My Works</title>
-  
-</head>
-<body>
 
   <h1>My Works</h1>
 
