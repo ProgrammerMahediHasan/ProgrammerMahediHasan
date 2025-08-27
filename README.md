@@ -14,8 +14,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmermahedihasan&label=Profile%20views&color=0e75b6&style=flat" alt="programmermahedihasan" /> </p>
 
-- 🔭 I’m currently working on [Shohoz Clone Website Project](https://shohoz-project.netlify.app/)
-
+- 💻 I’m currently working on the Shohoz Clone Website Project (https://shohoz-project.netlify.app/) as part of my training at IsDB-BISEW.
+  
 - 🌱 I’m currently learning **PHP, Laravel, MySQL for the Full Stack Development.**
 
 - 👯 I’m looking to collaborate on [Coder-Pro Landing Page Website Project](https://coder-pro.netlify.app/)
