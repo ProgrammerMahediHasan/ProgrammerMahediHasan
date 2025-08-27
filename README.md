@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **mahedihasanabir8@gmail.com**
 
-- ⚡ Fun fact **I am curious about learning something new everyday! 😎**
+- ⚡ Fun fact **I am curious about learning something new every day! 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +44,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<h2>Technical Skills</h2>
 
 ### 🏆 Expertise
 - **Languages:** JavaScript 
