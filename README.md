@@ -1,7 +1,7 @@
 ![logo](https://github.com/ProgrammerMahediHasan/ProgrammerMahediHasan/blob/main/Github%20Banner.png)
 
 ### Hello Guys! 👋
-<h3 align="center">
+<h3 align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=FF0000&lines=Hello+👋,+I'm+Mahedi+Hasan" alt="Typing SVG"/>
   </a>
