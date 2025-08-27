@@ -116,4 +116,4 @@ Example:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmermahedihasan&" alt="programmermahedihasan" /></p>
 
-<h1> ❄️ 🖥️  ⭐ ❤️ </h1>
+<h1 align="center"> ❄️ 🖥️  ⭐ ❤️ </h1>
