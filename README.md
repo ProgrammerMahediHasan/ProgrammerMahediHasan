@@ -59,7 +59,8 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pollob-official&color=blue)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F700&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Vue.js;Open+to+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF0000&lines=Currently+Training+at+IsDB-BISEW;Working+on+Shohoz+Clone+Website+Project)](https://git.io/typing-svg)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmermahedihasan&show_icons=true&locale=en&layout=compact" alt="programmermahedihasan" /></p>
 
