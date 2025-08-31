@@ -50,7 +50,15 @@
 
 ### 🏆 Expertise
 - **Languages:** JavaScript 
-- **Frontend:** HTML5, CSS3, React, Next.js, Bootstrap, Material UI, TailwindCSS, React Router  
+- **Frontend:** <img src="https://cdn.simpleicons.org/html5" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/css3" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/react" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/bootstrap" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/materialui" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/reactrouter" width="40" height="40" />
+  
 - **Backend:** Node.js, Express.js, Django, Fastify  
 - **Databases:** MySQL, MongoDB (Mongoose), PostgreSQL, Oracle  
 - **APIs & Auth:** RESTful APIs, JWT, Firebase Authentication, GraphQL  
