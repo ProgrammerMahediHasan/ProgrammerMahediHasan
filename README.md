@@ -50,13 +50,7 @@
 
 ### 🏆 Expertise
 - **Languages:** JavaScript 
-- **Frontend:** <img src="https://cdn.simpleicons.org/html5" width="30" height="30" /><img src="https://cdn.simpleicons.org/css" width="40" height="40" alt="CSS" />
-<img src="https://cdn.simpleicons.org/react" width="30" height="30" />
-<img src="https://cdn.simpleicons.org/nextdotjs" width="30" height="30" />
-<img src="https://cdn.simpleicons.org/bootstrap" width="30" height="30" />
-<img src="https://cdn.simpleicons.org/materialui" width="30" height="30" />
-<img src="https://cdn.simpleicons.org/tailwindcss" width="30" height="30" />
-<img src="https://cdn.simpleicons.org/reactrouter" width="30" height="30" />
+- **Frontend:** <img src="https://cdn.simpleicons.org/html5" width="30" height="30" /><img src="https://cdn.simpleicons.org/css" width="30" height="30" alt="CSS" /><img src="https://cdn.simpleicons.org/react" width="30" height="30" /><img src="https://cdn.simpleicons.org/nextdotjs" width="30" height="30" /><img src="https://cdn.simpleicons.org/bootstrap" width="30" height="30" /><img src="https://cdn.simpleicons.org/materialui" width="30" height="30" /><img src="https://cdn.simpleicons.org/tailwindcss" width="30" height="30" /><img src="https://cdn.simpleicons.org/reactrouter" width="30" height="30" />
   
 - **Backend:** Node.js, Express.js, Django, Fastify  
 - **Databases:** MySQL, MongoDB (Mongoose), PostgreSQL, Oracle  
