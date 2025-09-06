@@ -127,19 +127,9 @@ Example:
         <td>Feb 2025 - Present</td>
       </tr>
       <tr>
-        <td>Software Developer </td>
-        <td><a href="@IEMA">@IEMA</a></td>
-        <td>April 2021 - May 2022</td>
-      </tr>
-      <tr>
-        <td>Web Lead</td>
-        <td><a href="@Ureckon">@Ureckon</a></td>
-        <td>November 2021 - Present</td>
-      </tr>
-      <tr>
-        <td>Software Developer Intern</td>
-        <td><a href="@Quordnet-Academy">@Quordnet-Academy</a></td>
-        <td>Sep 2020 - Mar 2021</td>
+        <td>Junior Software Programmer</td>
+        <td><a href="@Quordnet-Academy">Nextech Limited</a></td>
+        <td>Jan 2022 - Nov 2024</td>
       </tr>
       <tr>
         <td>Junior Programmer Intern</td>
