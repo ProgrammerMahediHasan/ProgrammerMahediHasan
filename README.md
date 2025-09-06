@@ -122,19 +122,14 @@ Example:
     </thead>
     <tbody>
       <tr>
-        <td>Software Developer</td>
-        <td><a href="@Finarb">@Finarb</a></td>
-        <td>June 2022 - Present</td>
+        <td>Full Stack Web Developer</td>
+        <td><a href="@Finarb">IsDB-BISEW</a></td>
+        <td>Feb 2025 - Present</td>
       </tr>
       <tr>
-        <td>Software Developer Intern</td>
+        <td>Software Developer </td>
         <td><a href="@IEMA">@IEMA</a></td>
         <td>April 2021 - May 2022</td>
-      </tr>
-      <tr>
-        <td>Technical Instructor</td>
-        <td><a href="@IEMA">@IEMA</a></td>
-        <td>April 2021 - November 2021</td>
       </tr>
       <tr>
         <td>Web Lead</td>
@@ -147,19 +142,14 @@ Example:
         <td>Sep 2020 - Mar 2021</td>
       </tr>
       <tr>
-        <td>Backend Developer (Freelancer)</td>
-        <td><a href="@arches software co.">@arches software co.</a></td>
-        <td>August 2021 - November 2021</td>
+        <td>Junior Programmer Intern</td>
+        <td><a href="@Hack Club Uemk">Square Informatix Ltd.</a></td>
+        <td>Jan 2020 - Dec 2021</td>
       </tr>
       <tr>
-        <td>Founding Member & Web Developer</td>
-        <td><a href="@Hack Club Uemk">@Hack Club Uemk</a></td>
-        <td>June 2020 - June 2021</td>
-      </tr>
-      <tr>
-        <td>Freelancer</td>
-        <td><a href="@TreatAp">@TreatAp</a></td>
-        <td>Nov 2020 - Dec 2020</td>
+        <td>Junior Executive</td>
+        <td><a href="@TreatAp">Softcode Technology</a></td>
+        <td>Jan 2018 - Jan 2020</td>
       </tr>
     </tbody>
   </table>
