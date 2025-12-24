@@ -123,7 +123,7 @@ Example:
     <tbody>
       <tr>
         <td>Full Stack Web Developer</td>
-        <td><a href="@Finarb">IsDB-BISEW</a></td>
+        <td><a href="@Finarb">Intellect Software Ltd.</a></td>
         <td>Feb 2025 - Present</td>
       </tr>
       <tr>
