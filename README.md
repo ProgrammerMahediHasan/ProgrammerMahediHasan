@@ -127,14 +127,9 @@ Example:
         <td>Feb 2025 - Present</td>
       </tr>
       <tr>
-        <td>Junior Software Programmer</td>
-        <td><a href="@Quordnet-Academy">Nextech Limited</a></td>
-        <td>Jan 2022 - Nov 2024</td>
-      </tr>
-      <tr>
         <td>Junior Programmer Intern</td>
-        <td><a href="@Hack Club Uemk">Square Informatix Ltd.</a></td>
-        <td>Jan 2020 - Dec 2021</td>
+        <td><a href="@Hack Club Uemk">Square Informatix Ltd Through Nextech Limited</a></td>
+        <td>Jan 2020 - Dec 2025</td>
       </tr>
       <tr>
         <td>Junior Executive</td>
