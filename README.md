@@ -129,7 +129,7 @@ Example:
       <tr>
         <td>Junior Software Programmer</td>
         <td><a href="@Hack Club Uemk">Square Informatix Ltd Through Nextech Limited</a></td>
-        <td>Jan 2020 - Dec 2025</td>
+        <td>Jan 2020 - April 2025</td>
       </tr>
       <tr>
         <td>Junior Executive</td>
