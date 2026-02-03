@@ -124,10 +124,10 @@ Example:
       <tr>
         <td>Full Stack Web Developer</td>
         <td><a href="@Finarb">Intellect Software Ltd.</a></td>
-        <td>Feb 2025 - Present</td>
+        <td>May 2025 - Present</td>
       </tr>
       <tr>
-        <td>Junior Programmer Intern</td>
+        <td>Junior Software Programmer</td>
         <td><a href="@Hack Club Uemk">Square Informatix Ltd Through Nextech Limited</a></td>
         <td>Jan 2020 - Dec 2025</td>
       </tr>
