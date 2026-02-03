@@ -50,9 +50,9 @@
 
 ### 🏆 Expertise
 - **Languages:** JavaScript
-- **Frontend:** HTML5, CSS3, React, Next.js, Bootstrap, Material UI, TailwindCSS, React.
-- **Backend:** Node.js, Express.js, Django, Fastify  
-- **Databases:** MySQL, MongoDB (Mongoose), PostgreSQL, Oracle  
+- **Frontend:** HTML5, CSS3, React, Next.js, Bootstrap, Material UI, TailwindCSS.
+- **Backend:** Laravel (PHP) -> MySQL -> React-> Vue.js 
+- **Databases:** MySQL, PostgreSQL, Oracle  
 - **APIs & Auth:** RESTful APIs, JWT, Firebase Authentication, GraphQL  
 - **CS Fundamentals:** Data Structures, Algorithms, OOP, Problem Solving
 
